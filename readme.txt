@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git stracks changes of files.
 test origin is work.
 create new branch.
-this is come from master.
+this is come form together.
+
